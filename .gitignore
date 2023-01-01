@@ -1,0 +1,12 @@
+# idea conf files
+.idea
+
+# sbt
+.bsp/sbt.json
+
+# building
+target
+
+# sources
+project/target
+project/project
